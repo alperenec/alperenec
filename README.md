@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Alperen</h1>
-<h3 align="center">Web Developer & Computer Engineering 4th year Student</h3>
+<h3 align="center">Web Developer & Computer Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperenec&label=Profile%20views&color=0e75b6&style=flat" alt="alperenec" /> </p>
 
