@@ -1,23 +1,15 @@
-<h1 align="center">Hey there! I'm Alperen</h1>
+<h1 align="center">Hey! Hope you're doing well. I'm Alperen</h1>
 <h3 align="center">Web Developer & Computer Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alperenec&label=Profile%20views&color=0e75b6&style=flat" alt="alperenec" /> </p>
-
-<p align="left"> <a href="https://twitter.com/alperenec" target="blank"><img src="https://img.shields.io/twitter/follow/alperenec?logo=twitter&style=for-the-badge" alt="alperenec" /></a> </p>
-
-- 🔭 I’m currently working on **projects with Javascript**
-
-- 🌱 I’m currently learning **React.js and Node.js**
+- Visit my personal portfolio website: [alperenec.vercel.app](https://alperenec.vercel.app)
+- 🔭 I’m currently working on projects with React& Node.js .
 
 - 📫 Reach me via email: **alperenemcan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alperenec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alperenec" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alperenemrecandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alperenemrecandan" height="30" width="40" /></a>
 <a href="https://instagram.com/alperenec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alperenec" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/alperenemcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alperenemcan" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@alperenemcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@alperenemcan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
