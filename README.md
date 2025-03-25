@@ -5,13 +5,12 @@
 ---
 
 - 🌐 Visit my personal portfolio website: [alperenec.vercel.app](https://alperenec.vercel.app)
-- 🔭 I’m currently working on projects with both React & Node.js and services on HMS.
+- 🔭 I’m currently working on projects with both React & Node.js and services about HMS.
 
 ---
 
 ## 📌 About Me
 
-- 🔭 **Currently Working On**: Projects with **React** & **Node.js**  
 - 🔭 **I am Intern** at Probel which is a company that develops software on Hospital Management Systems.
 - 📫 **Email Me**: [alperenemcan@gmail.com](mailto:alperenemcan@gmail.com)  
 
