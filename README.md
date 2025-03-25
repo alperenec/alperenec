@@ -1,8 +1,40 @@
 <h1 align="center">Hey! Hope you're doing well. I'm Alperen</h1>
 <h3 align="center">Web Developer & Computer Engineer</h3>
+<p align="center">I’m passionate to build impactful web applications and solving real-world problems.</p>
 
-- Visit my personal portfolio website: [alperenec.vercel.app](https://alperenec.vercel.app)
-- 🔭 I’m currently working on projects with React& Node.js .
+---
+
+- 🌐 Visit my personal portfolio website: [alperenec.vercel.app](https://alperenec.vercel.app)
+- 🔭 I’m currently working on projects with both React & Node.js and services on HMS.
+
+---
+
+## 📌 About Me
+
+- 🔭 **Currently Working On**: Projects with **React** & **Node.js**  
+- 🔭 **I am Intern** at Probel which is a company that develops software on Hospital Management Systems.
+- 📫 **Email Me**: [alperenemcan@gmail.com](mailto:alperenemcan@gmail.com)  
+
+---
+
+## 🌟 Real-World Projects
+
+Here are some of the projects I’ve developed:
+
+
+- **Personal Lawyer Website**  
+  A full-stack MERN application for a law firm featuring a public website with service information, blog system, plus a admin dashboard for content management.
+  **Repo**: [github.com/alperenec/lawyer-personal-website](https://github.com/alperenec/lawyer-personal-website)  
+
+- **Intensive Care Unit Monitoring Dashboard**  
+  A dashboard for monitoring intensive care unit patients in real-time.  
+  **Repo**: [https://github.com/alperenec/intensiveCareUnit-Dashboard](https://github.com/alperenec/intensiveCareUnit-Dashboard)  
+
+- **Ventilator Unit Tracking Dashboard**  
+  A system to track and manage ventilator units in healthcare settings.
+  **Repo**: [https://github.com/alperenec/VentilatorDashboard-App](https://github.com/alperenec/VentilatorDashboard-App)  
+
+---
 
 - 📫 Reach me via email: **alperenemcan@gmail.com**
 
