@@ -6,8 +6,7 @@
 ## 📌 About Me
 
 - 🌐 Visit my personal portfolio website: [alperenec.vercel.app](https://alperenec.vercel.app)
-- ⚙️ I’m currently working on projects with React & Next.js and web development techs.
-- 🔧 **I am Intern** at Probel which is a company that develops software on Hospital Management Systems.
+- ⚙️ Currently, my main focus is on Data Analysis and Data Science. I am working on improving my skills in data-driven problem solving, data analysis, and extracting meaningful insights from data, while continuing to build projects that reflect this direction. 
 - 📫 **Email Me**: [alperenemcan@gmail.com](mailto:alperenemcan@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
