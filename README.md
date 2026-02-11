@@ -5,12 +5,10 @@
 
 ## 📌 About Me
 
----
-
-A passionate Data Analyst with a degree BSc. Software Engineering
-I continue to improve my data analysis skills and expand my knowledge of tools and libraries for future growth in data science.
-You can reach me via https://www.linkedin.com/in/alperenemrecandan/
-My email: alperenemcan@gmail.com
+- A passionate Data Analyst with a degree BSc. Software Engineering
+- I continue to improve my data analysis skills and expand my knowledge of tools and libraries for future growth in data science.
+- You can reach me via https://www.linkedin.com/in/alperenemrecandan/
+- My email: alperenemcan@gmail.com
 
 ---
 
