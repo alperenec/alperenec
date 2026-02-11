@@ -1,14 +1,15 @@
 <h1 align="center">Hey! Hope you're doing well. I'm Emre</h1>
 <h3 align="center">Data-Driven Solutions Enthusiast & Computer Engineer</h3>
-<p align="center">I'm eager to solve real-world problems using data-driven approaches.</p>
-
 ---
 ## 📌 About Me
+
+---
 
 A passionate Data Analyst with a degree BSc. Software Engineering
 I continue to improve my data analysis skills and expand my knowledge of tools and libraries for future growth in data science.
 You can reach me via https://www.linkedin.com/in/alperenemrecandan/
 My email: alperenemcan@gmail.com
+
 ---
 
 
