@@ -1,6 +1,8 @@
 <h1 align="center">Hey! Hope you're doing well. I'm Emre</h1>
 <h3 align="center">Data-Driven Solutions Enthusiast & Computer Engineer</h3>
+
 ---
+
 ## 📌 About Me
 
 ---
