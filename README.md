@@ -1,39 +1,14 @@
-<h1 align="center">Hey! Hope you're doing well. I'm Alperen</h1>
-<h3 align="center">Web Developer & Computer Engineer</h3>
-<p align="center">I’m passionate to build impactful web applications and solving real-world problems.</p>
+<h1 align="center">Hey! Hope you're doing well. I'm Emre</h1>
+<h3 align="center">Data-Driven Solutions Enthusiast & Computer Engineer</h3>
+<p align="center">I'm eager to solve real-world problems using data-driven approaches.</p>
 
 ---
 ## 📌 About Me
 
-- 🌐 Visit my personal portfolio website: [alperenec.vercel.app](https://alperenec.vercel.app)
-- ⚙️ Currently, my main focus is on Data Analysis and Data Science. I am working on improving my skills in data-driven problem solving, data analysis, and extracting meaningful insights from data, while continuing to build projects that reflect this direction. 
-- 📫 **Email Me**: [alperenemcan@gmail.com](mailto:alperenemcan@gmail.com)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alperenemrecandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alperenemrecandan" height="30" width="40" /></a>
-
-</p>
-
----
-
-## 🌟 Real-World Projects
-
-Here are some of the projects I’ve developed:
-
-
-- **Personal Lawyer Website**  
-  A full-stack MERN application for a law firm featuring a public website with service information, blog system, plus a admin dashboard for content management.
-  **Repo**: [github.com/alperenec/lawyer-personal-website](https://github.com/alperenec/lawyer-personal-website)  
-
-- **Intensive Care Unit Monitoring Dashboard**  
-  A dashboard for monitoring intensive care unit patients in real-time.  
-  **Repo**: [https://github.com/alperenec/intensiveCareUnit-Dashboard](https://github.com/alperenec/intensiveCareUnit-Dashboard)  
-
-- **Ventilator Unit Tracking Dashboard**  
-  A system to track and manage ventilator units in healthcare settings.
-  **Repo**: [https://github.com/alperenec/VentilatorDashboard-App](https://github.com/alperenec/VentilatorDashboard-App)  
-
+A passionate Data Analyst with a degree BSc. Software Engineering
+I continue to improve my data analysis skills and expand my knowledge of tools and libraries for future growth in data science.
+You can reach me via https://www.linkedin.com/in/alperenemrecandan/
+My email: alperenemcan@gmail.com
 ---
 
 
